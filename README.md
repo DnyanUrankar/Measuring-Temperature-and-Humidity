@@ -1,3 +1,3 @@
 # Measuring-Temperature-and-Humidity
 
-Working version of the DHT11 library for Raspberry Pi.
+This simple class can be used for reading temperature and humidity values from DHT11 sensor on Raspberry Pi.
